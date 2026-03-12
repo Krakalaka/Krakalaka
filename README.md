@@ -61,7 +61,7 @@ My name is Rafael Alvarenga Barbosa, I'm 19 years old and I'm from Belo Horizont
         title="stats"
         height="200px" 
         style="padding-right: 10px;" 
-        src="https://github-readme-stats.vercel.app/api?username=Krakalaka&show_icons=true&theme=merko&include_all_commits=true" 
+        src="https://github-readme-stats.vercel.app/api?username=Krakalaka&show_icons=true&theme=merko" 
     />
     <img 
         align="left" 
