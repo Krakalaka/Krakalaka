@@ -6,7 +6,7 @@ My name is Rafael Alvarenga Barbosa, I'm 19 years old and I'm from Belo Horizont
 
 <br>
 
-## 🤖 Linguagens e Tecnologias
+## 🤖 Languages and Technologies
 
 <img 
     align="left" 
@@ -52,7 +52,7 @@ My name is Rafael Alvarenga Barbosa, I'm 19 years old and I'm from Belo Horizont
 
 <br>
 
-## 📊 Estatísticas
+## 📊 Statistics
 
 <p>
     <img 
@@ -68,7 +68,6 @@ My name is Rafael Alvarenga Barbosa, I'm 19 years old and I'm from Belo Horizont
         alt="mostly used languages" 
         title="languages"
         height="200" 
-        style="padding-right: 10px;" 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krakalaka&theme=merko&hide_progress=true" 
     />
 </p>
