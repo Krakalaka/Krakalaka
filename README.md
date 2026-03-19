@@ -54,15 +54,15 @@ My name is Rafael Alvarenga Barbosa, I'm 19 and I'm from Minas Gerais, Brazil. I
 ## 🗂️ Projects
 
 - **🧑‍🍳 AI recipe generator *INCOMPLETE*** <br/>
-    A website where you enter the ingredients and get a recipe made by an AI. I'm building it while I learn React.
+    A website where you enter the ingredients and get a recipe made by an AI. I'm building it while I learn React. <br/>
     [github.com/Krakalaka/AIChef](https://github.com/Krakalaka/AIChef)
 
 - **💻 My first landing page** <br/>
-    Thats is my very first land page I made to test my HTML, CSS and JS knowledge.
+    Thats is my very first land page I made to test my HTML, CSS and JS knowledge. <br/>
     [github.com/Krakalaka/Devyson-Land-Page](https://github.com/Krakalaka/Devyson-Land-Page)
 
 - **🗺️ Guess the flag *BROKEN*** <br/>
-    A little game to test your knowledge. I made it while learning API.
+    A little game to test your knowledge. I made it while learning API. <br/>
     [github.com/Krakalaka/Guess-the-flag](https://github.com/Krakalaka/Guess-the-flag)
 
 <br/>
